@@ -1,3 +1,5 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 # QRcode-Generator V1.0
 Simple QRcode Generator using python.
 
