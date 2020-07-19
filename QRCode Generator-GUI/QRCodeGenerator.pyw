@@ -10,7 +10,7 @@ import os
 
 # Main window
 window = Tk()
-window.iconbitmap('qr-code.ico')
+window.iconphoto(False,PhotoImage(file='qr-code.png'))
 window.title('QRCODE GENERATOR')
 window.minsize(280, 350)
 window.maxsize(600, 400)
